@@ -9,7 +9,7 @@ permalink:        pretty
 title:            justaddScott
 tagline:          'add a pinch of Scott'
 description:      ''
-url:              http://localhost:4000
+url:              http://justaddscott.github.io
 baseurl:          '/'
 paginate:         5
 
